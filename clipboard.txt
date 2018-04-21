@@ -1,0 +1,3 @@
+data1 :: there's a snake in my boot
+data2 :: they don't think it be like it is but it do
+data3 :: somebody poisoned the waterhole
